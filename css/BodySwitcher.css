@@ -6,7 +6,7 @@
   text-indent: 0;
 }
   .bodies ul:before {
-    content: 'Search against:';
+    content: 'Procurar por:';
     margin-right: 1em;
   }
   .bodies li {
