@@ -25,7 +25,7 @@ nav ul {
   padding-bottom: 1.5rem;
 }
   nav ul:before {
-    content: 'Useful links:';
+    content: 'Links úteis:';
     margin-right: 0.5em;
   }
   nav li {
